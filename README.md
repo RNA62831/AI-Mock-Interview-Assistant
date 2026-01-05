@@ -23,6 +23,13 @@ A voice-based AI-powered mock interview system that generates role-specific tech
 - **Authentication**: Clerk with Google Sign-In
 - **Others**: Prompt Engineering, Real-time response analysis
 
+## Images
+
+![Dashboard](images/dashboard.png)
+![Interview Start](images/interviewStart.png)
+![Interview Questions](images/interviewQues.png)
+![Feedback](images/feedback.png)
+
 ## 🧩 How It Works
 
 1. **User logs in** using Google authentication.
